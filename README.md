@@ -78,7 +78,6 @@ npm run preview
 
 ## Links
 
-- GitHub: https://github.com/MkSachdev/Inovex
 - Demo link shown in the project materials: https://inovex-self.vercel.app/
 
 ## Scope and limitations
