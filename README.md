@@ -71,10 +71,10 @@ npm run preview
 
 ## Documentation
 
-- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — proposed system layers and workflow
-- [`docs/TECHNICAL_DESIGN.md`](docs/TECHNICAL_DESIGN.md) — current frontend and target integrations
-- [`docs/VERIFICATION_AND_TESTING.md`](docs/VERIFICATION_AND_TESTING.md) — SVA, simulation, triage, and validation methodology
-- [`docs/PROJECT_REPORT.md`](docs/PROJECT_REPORT.md) — project identity, objectives, impact, feasibility, and scope
+- [`ARCHITECTURE.md`](docs/ARCHITECTURE.md) — proposed system layers and workflow
+- [`TECHNICAL_DESIGN.md`](docs/TECHNICAL_DESIGN.md) — current frontend and target integrations
+- [`VERIFICATION_AND_TESTING.md`](docs/VERIFICATION_AND_TESTING.md) — SVA, simulation, triage, and validation methodology
+- [`PROJECT_REPORT.md`](docs/PROJECT_REPORT.md) — project identity, objectives, impact, feasibility, and scope
 
 ## Links
 
